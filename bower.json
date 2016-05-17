@@ -1,0 +1,31 @@
+{
+  "name": "angular-json-editor",
+  "title": "angular-json-editor",
+  "description": "Angular.js directive for Jos de Jong's JSON Editor. http://angularjsoneditor.oqbox.com ",
+  "keywords": [
+    "angular",
+    "json",
+    "json editor",
+    "editor"
+  ],
+  "homepage": "https://github.com/duychinhnguyenvn/angular-json-editor/",
+  "author": {
+    "name": "Chinh nguyen",
+    "url": "https://github.com/duychinhnguyenvn/"
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/umitgunduz/angular-json-editor"
+  },
+  "bugs": "https://github.com/duychinhnguyenvn/angular-json-editor/issues",
+  "dependencies": {
+    "jquery": ">=1.8",
+    "angular":">=1.5.0",
+    "bootstrap":">=3.3.0",
+    "jsoneditor":">=5.5.2"
+  },
+  "main": [
+    "dist/js/angular-json-editor.js",
+    "dist/css/angular-json-editor.css"
+  ]
+}
